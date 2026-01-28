@@ -1,22 +1,14 @@
-body {
-    font-family: 'Open Sans', sans-serif;
-}
-
-header {
-    background: url('../images/header.jpg') center / cover no-repeat;
-}
-
 .letter-spacing {
-    letter-spacing: 0.3em;
+  letter-spacing: 0.3em;
 }
 
 header {
-    width: 100%;
-    text-align: center;
-    color: #fff;
-    background: url('./images/header.jpg') center / cover no-repeat;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  background: url('./images/header.jpg') center / cover no-repeat;
 }
 
 .section-heading {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
